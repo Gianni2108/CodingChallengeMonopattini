@@ -1,0 +1,77 @@
+.Riquadro{
+  position: static;
+  height: 1200px;
+  opacity: 0.7;
+  background-color: black;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 600px;
+  margin-right: 470px;
+
+}
+
+.Logo{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.Scelte{
+  text-align:center;
+
+
+}
+
+.Title{
+  font-size: 40px;
+  color: lime;
+  text-align: center;
+}
+
+nav{
+background-color: lime;
+margin: 10px;
+padding: 15px;
+margin-right: 10%;
+margin-left: 10%;
+margin-top: 8px;
+}
+
+main{
+  margin-left: 150px;
+  box-sizing: content-box;
+}
+h2{
+  display: inline-block;
+  margin-bottom: 5px;
+
+}
+.opzioni{
+  color: white;
+  font-size: 20px;
+}
+
+.batterystatus{
+  color: orange;
+  box-sizing: content-box;
+  background-color: orange;
+  border-radius: 5px;
+  margin-top: auto;
+}
+.batterystatus1{
+  color: green;
+  box-sizing: content-box;
+  background-color: green;
+  border-radius: 5px;
+  margin-top: auto;
+}
+.batterystatus2{
+  color: darkred;
+  box-sizing: content-box;
+  background-color: darkred;
+  border-radius: 5px;
+  margin-top: auto;
+}
+p{
+  margin-top: auto;
+  margin-bottom: auto;
+}
